@@ -36,3 +36,60 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+/* Mon code CSS */
+.monHeader {
+  background-color: #F6F6F6;
+  padding: 10px;
+  margin-bottom: 70px;
+}
+
+.monLogo {
+  height: 100px;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.titrePage {
+  color: #45b3e2;
+  font-size: 50px;
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 40px;
+}
+
+.textePage {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 22px;
+}
+
+.titreContact {
+  font-size: 30px;
+  color: #45b3e2;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 70px;
+  margin-bottom: 30px;
+}
+
+.monButton {
+  margin-top: 20px;
+  float: right;
+}
+
+.champForm {
+  float: left;
+  font-size: 16px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  margin-top: 35px;
+}
+
+.texteFooter {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
